@@ -49,7 +49,7 @@ As visitas são registradas e priorizadas com base em critérios como a urgênci
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/usuario/projeto.git
+    git clone https://github.com/raul4nt/api-rotas-brigada.git
     cd projeto
     ```
 
