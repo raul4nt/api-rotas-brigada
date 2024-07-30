@@ -4,6 +4,16 @@
 
 Este projeto foi desenvolvido como parte da disciplina de **Gestão Ágil de Projetos**, no quarto semestre da faculdade. O objetivo é criar um sistema que otimize as rotas da Brigada Militar para a Patrulha Maria da Penha, facilitando o registro e a gestão de visitas de proteção. Nosso grupo ficou com a parte de backend e frontend, onde a linguagem escolhida foi Python, e o framework utilizado para construção da API foi o Django.
 
+## Tecnologias Utilizadas
+
+- **Python**
+- **Django**
+- **Bootstrap**
+- **PostgreSQL**
+- **JavaScript**
+- **HTML**
+- **CSS**
+
 ## Funcionalidades: visão geral
 
 - **Registro de Usuários e Autenticação**: Permite que novos usuários se registrem e façam login no sistema.
